@@ -105,7 +105,7 @@ h2 {
 	margin-bottom: 10px;
 	margin-top: 5px;
 	padding-left: 5px;
-	text-decoration: underline;
+	font-weight: bold;
 }
 h1 {
 	font-size: 2em;
@@ -119,5 +119,5 @@ p {
 	margin-top: 5px;
 }
 .emailcontact, .phonecontact {
-	list-style-type: disc !important;
+	list-style: disc !important;
 }
