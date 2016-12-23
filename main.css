@@ -119,5 +119,9 @@ p {
 	margin-top: 5px;
 }
 .emailcontact, .phonecontact {
-	list-style: disc !important;
+	padding-left: 30px;
+	list-style-type: disc !important;
+}
+strong {
+	font-weight: bold;
 }
