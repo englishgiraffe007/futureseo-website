@@ -1,0 +1,18 @@
+.nav-pills li a{
+    color: #777 !important;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    /*same margin-bottom as the footer heigh*/
+    margin-bottom: 30px;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    height: 30px;
+}
